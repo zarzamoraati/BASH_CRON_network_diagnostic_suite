@@ -1,6 +1,0 @@
-# Nmap 7.80 scan initiated Sat Jul 20 08:12:58 2024 as: nmap -sT -p 4662 -oG amule_scan 192.168.100.209/24
-Host: 192.168.100.1 (_gateway)	Status: Up
-Host: 192.168.100.1 (_gateway)	Ports: 4662/closed/tcp//edonkey///
-Host: 192.168.100.209 (polo-System-Product-Name)	Status: Up
-Host: 192.168.100.209 (polo-System-Product-Name)	Ports: 4662/open/tcp//edonkey///
-# Nmap done at Sat Jul 20 08:13:01 2024 -- 256 IP addresses (2 hosts up) scanned in 3.04 seconds
