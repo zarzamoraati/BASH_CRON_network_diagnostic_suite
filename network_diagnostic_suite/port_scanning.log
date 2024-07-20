@@ -1,0 +1,5 @@
+# Nmap 7.80 scan initiated Sat Jul 20 08:43:14 2024 as: nmap -sT -p 4462 -oG ./port_scanning.log 192.168.100.209
+Host: 192.168.100.209 (polo-System-Product-Name)	Status: Up
+Host: 192.168.100.209 (polo-System-Product-Name)	Ports: 4462/closed/tcp/////
+# Nmap done at Sat Jul 20 08:43:14 2024 -- 1 IP address (1 host up) scanned in 0.03 seconds
+Finish Scanning ----->

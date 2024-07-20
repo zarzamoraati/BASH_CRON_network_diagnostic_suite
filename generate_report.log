@@ -1,0 +1,261 @@
+
++++ date +%Y%m%d%H%M
+++ echo report_202407201201.log
++ REPORTFILE=/home/polo/networking/basic_networking/report_202407201201.log
++ echo /home/polo/networking/basic_networking/report_202407201201.log
+/home/polo/networking/basic_networking/report_202407201201.log
++ LOG_FILES=($(ls '/home/polo/networking/basic_networking/network_diagnostic_suite'| grep ".log$"))
+++ ls /home/polo/networking/basic_networking/network_diagnostic_suite
+++ grep '.log$'
+++ date
++ echo '[sáb 20 jul 2024 12:01:01 CST]  Generating Network Diagnostic Report'
++ [[ ! -f /home/polo/networking/basic_networking/report_202407201201.log ]]
++ echo -e 'Staring New Report...'
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [packet_capture.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/packet_capture.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [ping_check2.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/ping_check2.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [port_scanning.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/port_scanning.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [traceroute_log.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/traceroute_log.log
++ set +x
+---------------- FINISH REPORTING ------------
++++ date +%Y%m%d%H%M
+++ echo report_202407201202.log
++ REPORTFILE=/home/polo/networking/basic_networking/report_202407201202.log
++ echo /home/polo/networking/basic_networking/report_202407201202.log
+/home/polo/networking/basic_networking/report_202407201202.log
++ LOG_FILES=($(ls '/home/polo/networking/basic_networking/network_diagnostic_suite'| grep ".log$"))
+++ ls /home/polo/networking/basic_networking/network_diagnostic_suite
+++ grep '.log$'
+++ date
++ echo '[sáb 20 jul 2024 12:02:01 CST]  Generating Network Diagnostic Report'
++ [[ ! -f /home/polo/networking/basic_networking/report_202407201202.log ]]
++ echo -e 'Staring New Report...'
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [packet_capture.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/packet_capture.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [ping_check2.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/ping_check2.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [port_scanning.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/port_scanning.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [traceroute_log.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/traceroute_log.log
++ set +x
+---------------- FINISH REPORTING ------------
++++ date +%Y%m%d%H%M
+++ echo report_202407201203.log
++ REPORTFILE=/home/polo/networking/basic_networking/report_202407201203.log
++ echo /home/polo/networking/basic_networking/report_202407201203.log
+/home/polo/networking/basic_networking/report_202407201203.log
++ LOG_FILES=($(ls '/home/polo/networking/basic_networking/network_diagnostic_suite'| grep ".log$"))
+++ ls /home/polo/networking/basic_networking/network_diagnostic_suite
+++ grep '.log$'
+++ date
++ echo '[sáb 20 jul 2024 12:03:01 CST]  Generating Network Diagnostic Report'
++ [[ ! -f /home/polo/networking/basic_networking/report_202407201203.log ]]
++ echo -e 'Staring New Report...'
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [packet_capture.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/packet_capture.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [ping_check2.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/ping_check2.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [port_scanning.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/port_scanning.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [traceroute_log.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/traceroute_log.log
++ set +x
+---------------- FINISH REPORTING ------------
++++ date +%Y%m%d%H%M
+++ echo report_202407201204.log
++ REPORTFILE=/home/polo/networking/basic_networking/report_202407201204.log
++ echo /home/polo/networking/basic_networking/report_202407201204.log
+/home/polo/networking/basic_networking/report_202407201204.log
++ LOG_FILES=($(ls '/home/polo/networking/basic_networking/network_diagnostic_suite'| grep ".log$"))
+++ ls /home/polo/networking/basic_networking/network_diagnostic_suite
+++ grep '.log$'
+++ date
++ echo '[sáb 20 jul 2024 12:04:01 CST]  Generating Network Diagnostic Report'
++ [[ ! -f /home/polo/networking/basic_networking/report_202407201204.log ]]
++ echo -e 'Staring New Report...'
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [packet_capture.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/packet_capture.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [ping_check2.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/ping_check2.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [port_scanning.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/port_scanning.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [traceroute_log.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/traceroute_log.log
++ set +x
+---------------- FINISH REPORTING ------------
++++ date +%Y%m%d%H%M
+++ echo report_202407201205.log
++ REPORTFILE=/home/polo/networking/basic_networking/report_202407201205.log
++ echo /home/polo/networking/basic_networking/report_202407201205.log
+/home/polo/networking/basic_networking/report_202407201205.log
++ LOG_FILES=($(ls '/home/polo/networking/basic_networking/network_diagnostic_suite'| grep ".log$"))
+++ ls /home/polo/networking/basic_networking/network_diagnostic_suite
+++ grep '.log$'
+++ date
++ echo '[sáb 20 jul 2024 12:05:01 CST]  Generating Network Diagnostic Report'
++ [[ ! -f /home/polo/networking/basic_networking/report_202407201205.log ]]
++ echo -e 'Staring New Report...'
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [packet_capture.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/packet_capture.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [ping_check2.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/ping_check2.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [port_scanning.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/port_scanning.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [traceroute_log.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/traceroute_log.log
++ set +x
+---------------- FINISH REPORTING ------------
++++ date +%Y%m%d%H%M
+++ echo report_202407201206.log
++ REPORTFILE=/home/polo/networking/basic_networking/report_202407201206.log
++ echo /home/polo/networking/basic_networking/report_202407201206.log
+/home/polo/networking/basic_networking/report_202407201206.log
++ LOG_FILES=($(ls '/home/polo/networking/basic_networking/network_diagnostic_suite'| grep ".log$"))
+++ ls /home/polo/networking/basic_networking/network_diagnostic_suite
+++ grep '.log$'
+++ date
++ echo '[sáb 20 jul 2024 12:06:01 CST]  Generating Network Diagnostic Report'
++ [[ ! -f /home/polo/networking/basic_networking/report_202407201206.log ]]
++ echo -e 'Staring New Report...'
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [packet_capture.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/packet_capture.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [ping_check2.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/ping_check2.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [port_scanning.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/port_scanning.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [traceroute_log.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/traceroute_log.log
++ set +x
+---------------- FINISH REPORTING ------------
++++ date +%Y%m%d%H%M
+++ echo report_202407201207.log
++ REPORTFILE=/home/polo/networking/basic_networking/report_202407201207.log
++ echo /home/polo/networking/basic_networking/report_202407201207.log
+/home/polo/networking/basic_networking/report_202407201207.log
++ LOG_FILES=($(ls '/home/polo/networking/basic_networking/network_diagnostic_suite'| grep ".log$"))
+++ ls /home/polo/networking/basic_networking/network_diagnostic_suite
+++ grep '.log$'
+++ date
++ echo '[sáb 20 jul 2024 12:07:02 CST]  Generating Network Diagnostic Report'
++ [[ ! -f /home/polo/networking/basic_networking/report_202407201207.log ]]
++ echo -e 'Staring New Report...'
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [packet_capture.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/packet_capture.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [ping_check2.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/ping_check2.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [port_scanning.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/port_scanning.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [traceroute_log.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/traceroute_log.log
++ set +x
+---------------- FINISH REPORTING ------------
++++ date +%Y%m%d%H%M
+++ echo report_202407201208.log
++ REPORTFILE=/home/polo/networking/basic_networking/report_202407201208.log
++ echo /home/polo/networking/basic_networking/report_202407201208.log
+/home/polo/networking/basic_networking/report_202407201208.log
++ LOG_FILES=($(ls '/home/polo/networking/basic_networking/network_diagnostic_suite'| grep ".log$"))
+++ ls /home/polo/networking/basic_networking/network_diagnostic_suite
+++ grep '.log$'
+++ date
++ echo '[sáb 20 jul 2024 12:08:01 CST]  Generating Network Diagnostic Report'
++ [[ ! -f /home/polo/networking/basic_networking/report_202407201208.log ]]
++ echo -e 'Staring New Report...'
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [packet_capture.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/packet_capture.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [ping_check2.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/ping_check2.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [port_scanning.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/port_scanning.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [traceroute_log.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/traceroute_log.log
++ set +x
+---------------- FINISH REPORTING ------------
++++ date +%Y%m%d%H%M
+++ echo report_202407201209.log
++ REPORTFILE=/home/polo/networking/basic_networking/report_202407201209.log
++ echo /home/polo/networking/basic_networking/report_202407201209.log
+/home/polo/networking/basic_networking/report_202407201209.log
++ LOG_FILES=($(ls '/home/polo/networking/basic_networking/network_diagnostic_suite'| grep ".log$"))
+++ ls /home/polo/networking/basic_networking/network_diagnostic_suite
+++ grep '.log$'
+++ date
++ echo '[sáb 20 jul 2024 12:09:01 CST]  Generating Network Diagnostic Report'
++ [[ ! -f /home/polo/networking/basic_networking/report_202407201209.log ]]
++ echo -e 'Staring New Report...'
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [packet_capture.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/packet_capture.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [ping_check2.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/ping_check2.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [port_scanning.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/port_scanning.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [traceroute_log.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/traceroute_log.log
++ set +x
+---------------- FINISH REPORTING ------------
++++ date +%Y%m%d%H%M
+++ echo report_202407201210.log
++ REPORTFILE=/home/polo/networking/basic_networking/report_202407201210.log
++ echo /home/polo/networking/basic_networking/report_202407201210.log
+/home/polo/networking/basic_networking/report_202407201210.log
++ LOG_FILES=($(ls '/home/polo/networking/basic_networking/network_diagnostic_suite'| grep ".log$"))
+++ ls /home/polo/networking/basic_networking/network_diagnostic_suite
+++ grep '.log$'
+++ date
++ echo '[sáb 20 jul 2024 12:10:01 CST]  Generating Network Diagnostic Report'
++ [[ ! -f /home/polo/networking/basic_networking/report_202407201210.log ]]
++ echo -e 'Staring New Report...'
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [packet_capture.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/packet_capture.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [ping_check2.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/ping_check2.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [port_scanning.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/port_scanning.log
++ for file in "${LOG_FILES[@]}"
++ echo -e 'REPORT SECTION  ----> [traceroute_log.log]'
++ cat /home/polo/networking/basic_networking/network_diagnostic_suite/traceroute_log.log
++ set +x
+---------------- FINISH REPORTING ------------

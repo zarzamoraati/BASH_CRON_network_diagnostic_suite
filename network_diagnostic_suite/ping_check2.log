@@ -1,0 +1,21 @@
+
+[ sáb 20 jul 2024 04:55:47 CST ] Pining to google.com...
+PING google.com(pnqroa-aj-in-x0e.1e100.net (2607:f8b0:4012:82a::200e)) 56 data bytes
+64 bytes from pnqroa-aj-in-x0e.1e100.net (2607:f8b0:4012:82a::200e): icmp_seq=1 ttl=59 time=6.46 ms
+64 bytes from pnqroa-aj-in-x0e.1e100.net (2607:f8b0:4012:82a::200e): icmp_seq=2 ttl=59 time=6.40 ms
+64 bytes from pnqroa-aj-in-x0e.1e100.net (2607:f8b0:4012:82a::200e): icmp_seq=3 ttl=59 time=6.63 ms
+64 bytes from pnqroa-aj-in-x0e.1e100.net (2607:f8b0:4012:82a::200e): icmp_seq=4 ttl=59 time=6.15 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 6.151/6.407/6.627/0.170 ms
+[ sáb 20 jul 2024 04:55:53 CST ] Pining to google.com...
+PING google.com(pnqroa-aj-in-x0e.1e100.net (2607:f8b0:4012:82a::200e)) 56 data bytes
+64 bytes from pnqroa-aj-in-x0e.1e100.net (2607:f8b0:4012:82a::200e): icmp_seq=1 ttl=59 time=6.46 ms
+64 bytes from pnqroa-aj-in-x0e.1e100.net (2607:f8b0:4012:82a::200e): icmp_seq=2 ttl=59 time=6.06 ms
+64 bytes from pnqroa-aj-in-x0e.1e100.net (2607:f8b0:4012:82a::200e): icmp_seq=3 ttl=59 time=6.53 ms
+64 bytes from pnqroa-aj-in-x0e.1e100.net (2607:f8b0:4012:82a::200e): icmp_seq=4 ttl=59 time=6.60 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3005ms
+rtt min/avg/max/mdev = 6.061/6.412/6.596/0.208 ms
